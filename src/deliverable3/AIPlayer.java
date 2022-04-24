@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Jeel Patel
+ * @author ASUS
  */
 class AIPlayer extends Player
 

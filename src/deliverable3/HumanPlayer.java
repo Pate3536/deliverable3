@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Jeel Patel
+ * @author ASUS
  */
 class HumanPlayer extends Player
 
